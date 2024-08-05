@@ -1,16 +1,13 @@
-## Hi there 👋
+## BOAS VINDAS AO MEU PERFIL 
+meu nome é gabriel da rua
 
-<!--
-**gabrieldarua/gabrieldarua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-eu estudo na [alura] https://www.alura.com.br/
+-estou me deenvolvedo em linguagem de javascript
+-utilizo esse espaço para minha organização  comparilhamento do meus projetos desenvolvimento
 
-Here are some ideas to get you started:
+entre em contato comigo
+gabriel.santos.rodrigues24@ecola.pr.gov.br
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-istagram: @gbzin.trem7
+
+![](https://tenor.com/pt-BR/view/asambhav-gif-26754558)
