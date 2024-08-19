@@ -13,3 +13,4 @@ gabriel.santos.rodrigues24@ecola.pr.gov.br
 - Istagram: @gbzin.trem7
 
 ![](https://tenor.com/pt-BR/view/asambhav-gif-26754558)
+
